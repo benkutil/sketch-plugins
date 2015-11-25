@@ -22,3 +22,6 @@
 [submodule "Smartboards"]
 	path = Smartboards
 	url = https://github.com/elihorne/smartboards.git
+[submodule "Fluid"]
+	path = Fluid
+	url = https://github.com/matt-curtis/Fluid-for-Sketch.git
