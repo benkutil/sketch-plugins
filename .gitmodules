@@ -1,0 +1,9 @@
+[submodule "Rename Layers"]
+	path = Rename Layers
+	url = https://github.com/rodi01/RenameIt.git
+[submodule "Relabel Buttons"]
+	path = Relabel Buttons
+	url = https://github.com/kenmoore/sketch-relabel-button.git
+[submodule "Sketch Mate"]
+	path = Sketch Mate
+	url = https://github.com/getflourish/Sketch-Mate.git
