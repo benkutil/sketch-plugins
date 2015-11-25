@@ -1,9 +1,24 @@
-[submodule "Rename Layers"]
-	path = Rename Layers
-	url = https://github.com/rodi01/RenameIt.git
-[submodule "Relabel Buttons"]
-	path = Relabel Buttons
-	url = https://github.com/kenmoore/sketch-relabel-button.git
 [submodule "Sketch Mate"]
 	path = Sketch Mate
 	url = https://github.com/getflourish/Sketch-Mate.git
+[submodule "Markup"]
+	path = Markup
+	url = https://github.com/tudou527/marketch.git
+[submodule "Content Generator"]
+	path = Content Generator
+	url = https://github.com/timuric/Content-generator-sketch-plugin.git
+[submodule "Color Analyzer"]
+	path = Color Analyzer
+	url = https://github.com/getflourish/Sketch-Color-Contrast-Analyser.git
+[submodule "Relabel"]
+	path = Relabel
+	url = https://github.com/kenmoore/sketch-relabel-button.git
+[submodule "Dynamic Button"]
+	path = Dynamic Button
+	url = https://github.com/ddwht/sketch-dynamic-button.git
+[submodule "Rename"]
+	path = Rename
+	url = https://github.com/rodi01/RenameIt.git
+[submodule "Smartboards"]
+	path = Smartboards
+	url = https://github.com/elihorne/smartboards.git
