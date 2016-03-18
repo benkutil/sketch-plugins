@@ -25,3 +25,27 @@
 [submodule "Flex Layout"]
 	path = Flex Layout
 	url = https://github.com/hrescak/Sketch-Flex-Layout.git
+[submodule "Text Layers"]
+	path = Text Layers
+	url = https://github.com/benkutil/jw-sketch-plugins.git
+[submodule "Data Populator"]
+	path = Data Populator
+	url = https://github.com/preciousforever/sketch-data-populator.git
+[submodule "Sandros Plugins"]
+	path = Sandros Plugins
+	url = https://github.com/alssndro/sandros-sketch-plugins.git
+[submodule "Sketch Commands"]
+	path = Sketch Commands
+	url = https://github.com/bomberstudios/sketch-commands.git
+[submodule "Sketch Palettes"]
+	path = Sketch Palettes
+	url = https://github.com/andrewfiorillo/sketch-palettes.git
+[submodule "Long Shadows"]
+	path = Long Shadows
+	url = https://github.com/JayHoltslander/Sketch-Make-Long-Shadow.git
+[submodule "Styledrop"]
+	path = Styledrop
+	url = https://github.com/ryanmclaughlin/styledrop.git
+[submodule "Typographic Scale"]
+	path = Typographic Scale
+	url = https://github.com/automat/sketch-plugin-typographic-scale.git
