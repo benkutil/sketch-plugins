@@ -49,3 +49,6 @@
 [submodule "Typographic Scale"]
 	path = Typographic Scale
 	url = https://github.com/automat/sketch-plugin-typographic-scale.git
+[submodule "Style Inventory"]
+	path = Style Inventory
+	url = https://github.com/getflourish/Sketch-Style-Inventory.git
