@@ -1,0 +1,21 @@
+{
+  "author" : "Runner Team",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "shortcut" : "cmd /",
+      "name" : "Launch",
+      "identifier" : "runner"
+    }
+  ],
+  "menu": {
+    "items": [
+      "runner"
+    ]
+  },
+  "identifier" : "com.scooterinteractive.sketchplugins.Runner",
+  "version" : "0.1",
+  "description" : "Search, run, insert, apply, (TBD)",
+  "authorEmail" : "aby@scooterinteractive.com",
+  "name" : "Runner"
+}
