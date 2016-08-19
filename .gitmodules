@@ -55,3 +55,6 @@
 [submodule "sketch-copy-to-all"]
 	path = sketch-copy-to-all
 	url = https://github.com/wuwa/sketch-copy-to-all.git
+[submodule "shared-text-styles"]
+	path = shared-text-styles
+	url = git@github.com:nilshoenson/shared-text-styles.git
